@@ -1,5 +1,9 @@
 {
-  "version": "4.0.0",
+  "version": "4.1.3",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.3",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.3/Findex.exe",
+  "sha256": "b6d6f39da1204704886ac15443e0279fe3e09f0102aa41959bc8bde4ccdc7915",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.3/Findex-portable.zip",
+  "sha256_folder": "41c374123dc9bf4a65e4efe3b3bee3a4106df8d226390a7d2d6d09097b5dd619"
 }
