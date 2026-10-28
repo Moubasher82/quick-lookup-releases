@@ -1,10 +1,10 @@
 {
-  "version": "4.1.6",
+  "version": "4.1.7",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.6",
-  "notes_text": "- What's new stays in the app instead of opening a browser\n- Fix a real self-update crash: signal-to-signal type mismatch\n- Fix the test_publish dispatch: don't pass a cross-repo commit SHA\n- CI: add a test_publish dispatch input, so debugging the publish pipeline doesn't need a real version tag",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.6/Findex.exe",
-  "sha256": "7eb54d417fad21ef5dfd0bce3d7df000cfda24d5a3ca68bac12e2c8cd226da1d",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.6/Findex-portable.zip",
-  "sha256_folder": "c1ae7dc810de3a2424b9c1f0d1cd71280916382aff30264b94d209f6fde1beb8"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.7",
+  "notes_text": "- Show \"Connecting...\" instead of a blank bar before the first download byte",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.7/Findex.exe",
+  "sha256": "2958dcc4376322355992d520620470fef78a13e2aa1f9c665f4c80a919e08f50",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.7/Findex-portable.zip",
+  "sha256_folder": "ee38da7a3414e41819e3f8813c2068b162065181275c0ccd4b9e848efe53b530"
 }
