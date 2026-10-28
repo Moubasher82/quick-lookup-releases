@@ -1,9 +1,9 @@
 {
-  "version": "4.1.4",
+  "version": "4.1.5",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.4",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.4/Findex.exe",
-  "sha256": "b6d993801eca4842aa3a3791b7f534b536fac003e733902c4b414781bcb80d7e",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.4/Findex-portable.zip",
-  "sha256_folder": "a6530263c43976e533f8d217793795c11bcacfa3ee4eedccc64785f21ed6b78d"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.5",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.5/Findex.exe",
+  "sha256": "9d5397b051dc7d8c092627962e3d4a4ba4a7029cab0f5c79aa22e2a178a31bfa",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.5/Findex-portable.zip",
+  "sha256_folder": "a2941935f7a9f6d03627e7498ffa6e80748893a23dc89f2d2c4f54f766bffeac"
 }
