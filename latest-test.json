@@ -1,0 +1,9 @@
+{
+  "version": "0.0.0-test",
+  "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/test-publish",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/test-publish/Findex.exe",
+  "sha256": "19bc520471805f6d8bd69a95c961e6eb3b620c1bc81683ac6127d9e752777fb6",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/test-publish/Findex-portable.zip",
+  "sha256_folder": "cb7bcbde96659e2344f875e071016ad130e67dbee8ef1d97eaef1018425aaba8"
+}
