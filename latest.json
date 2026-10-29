@@ -1,12 +1,12 @@
 {
-  "version": "4.1.8",
+  "version": "4.1.9",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.8",
-  "notes_text": "- Add an Inno Setup installer as a third distribution option\n- Confirm the relauncher actually survives before quitting",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.8/Findex.exe",
-  "sha256": "a7db6ab1132b2161646ff22123cc7a18932a92754eaa44ccb1c7bf236fe3dbf3",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.8/Findex-portable.zip",
-  "sha256_folder": "928972fc90aac9108b9fa35e741537f6c264aa0ce8a5d4b0d07a77133a475fb9",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.8/Findex-Setup.exe",
-  "sha256_installer": "0b0ed0ad8cf83a056a350f02245c9292cc6e28e9307d238dd1f89de306b1a2d9"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.9",
+  "notes_text": "- Add a permanent personal edition, built and published alongside commercial",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex.exe",
+  "sha256": "136bc204e618bba105d7213788c72b6995e359ae0f8b3d25d196b8654cacd1e5",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex-portable.zip",
+  "sha256_folder": "2d6ee7527c65e8fe89b9873ae54e6d95ebcd9761b4b59252906276991e456a5a",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex-Setup.exe",
+  "sha256_installer": "eeca0e4299829836f39762c24331eb40635e16c6886f05b90b8ccd98bd6ce3fb"
 }
