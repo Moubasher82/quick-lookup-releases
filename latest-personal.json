@@ -1,0 +1,12 @@
+{
+  "version": "4.1.9",
+  "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.9",
+  "notes_text": "- Add a permanent personal edition, built and published alongside commercial",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/FindexPersonal.exe",
+  "sha256": "7fd9c77f6cabeb157098cfc669182a0ebc05c3f4ed8c018f51e1ff6bdaa0598e",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/FindexPersonal-portable.zip",
+  "sha256_folder": "84fe9f02d40c58d63f76864b1443769478a9f71176283f5b473735b4232c79c1",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/FindexPersonal-Setup.exe",
+  "sha256_installer": "7d9e3cf417a6ba7cab6bacdb65786aa5037b46555ff3f9480a89c9c852a8d64c"
+}
