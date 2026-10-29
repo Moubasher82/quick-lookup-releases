@@ -1,12 +1,12 @@
 {
-  "version": "4.1.9",
+  "version": "4.1.10",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.9",
-  "notes_text": "- Add a permanent personal edition, built and published alongside commercial",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex.exe",
-  "sha256": "136bc204e618bba105d7213788c72b6995e359ae0f8b3d25d196b8654cacd1e5",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex-portable.zip",
-  "sha256_folder": "2d6ee7527c65e8fe89b9873ae54e6d95ebcd9761b4b59252906276991e456a5a",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.9/Findex-Setup.exe",
-  "sha256_installer": "eeca0e4299829836f39762c24331eb40635e16c6886f05b90b8ccd98bd6ce3fb"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.10",
+  "notes_text": "- Personal edition: same visible name \"Findex\" everywhere, not \"Findex Personal\"\n- Fix: a shipped build never actually used its baked-in edition",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/Findex.exe",
+  "sha256": "4468782b7de9c644ca3b9bbaf5e96d9390eaaff2a236b6123fcab7ce57a62330",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/Findex-portable.zip",
+  "sha256_folder": "46f3639202380401979fd5adec61fed3ace6e8b8a90659b88d2f7d278de16b19",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/Findex-Setup.exe",
+  "sha256_installer": "d2c5fa335ee1417321b544b336ddda15641458321c1d637ef6cc447ea19d8147"
 }
