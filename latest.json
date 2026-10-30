@@ -1,12 +1,12 @@
 {
-  "version": "4.1.11",
+  "version": "4.2.0",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.11",
-  "notes_text": "- Fix: the Personal edition's Search Guide printed the Lunazad email\n- Add APP_BRIEF.md: a factual project overview for outside readers",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/Findex.exe",
-  "sha256": "a5019dd9d08deaee3c9d295033cd9a9f6475d7d321bee9134da9ad622cc38446",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/Findex-portable.zip",
-  "sha256_folder": "fdb79f406b13ed4b357d98ca72fae6b5fc10afbdacc67fc84c412540e2318374",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/Findex-Setup.exe",
-  "sha256_installer": "b6df10f0c4cdc74590357f5d7303ac9295b3156f70a6a54b94407eb1bd8ca6df"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.0",
+  "notes_text": "- Launchpad: each section in a box in its own colour; Search Guide gets a Launchpad chapter\n- Launchpad: allow programs and scripts; tiles can have their own picture\n- Launchpad: shortcut tiles for files, folders, links and saved searches",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/Findex.exe",
+  "sha256": "63edbfec5f2cc252beeab91f89583b2befd27ada8e7e076afeffa7637ad3dd6c",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/Findex-portable.zip",
+  "sha256_folder": "b3062ec310fe986e50807d7a738a168d782918e249d92b8de3d61afd62c2371c",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/Findex-Setup.exe",
+  "sha256_installer": "9a2019d55abece470809078fb6599d47fa16dc1fa1c98d0b2f0e66a741701795"
 }
