@@ -1,12 +1,12 @@
 {
-  "version": "4.2.3",
+  "version": "4.2.4",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.3",
-  "notes_text": "Bug fixes and improvements.",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal.exe",
-  "sha256": "97cd61fbe614b68e2777e4532d3eb6a5f375bbb574c3799cc9bbf388407db80f",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal-portable.zip",
-  "sha256_folder": "b02d7815eaa92c470bc62192a66577207f57d2863c709a9ac475f904fabfecfd",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal-Setup.exe",
-  "sha256_installer": "8b608ce864142861e559fd6ce5b0821cd47ad8bf085ef77b4be04dd2e5c5872f"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.4",
+  "notes_text": "- Fix: the typing strip showed a clipped tile on narrow windows\n- Fix: Launchpad review findings (safety, search crash, slow shares, dialog and keyboard bugs)\n- Fix: sections couldn't be added to the Launchpad - added Add section buttons",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal.exe",
+  "sha256": "84b830d75bd09def426ce7a423da7f708d7c7710b58a863e3c63234ce625724c",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal-portable.zip",
+  "sha256_folder": "12be54208f57c3af9c1703f6070ec9a70516e9afb22be95527342331c47310a5",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal-Setup.exe",
+  "sha256_installer": "1b78d997e2d574c982c64161c3978f0188c05a8d4982738c377dbc9455eaeeb9"
 }
