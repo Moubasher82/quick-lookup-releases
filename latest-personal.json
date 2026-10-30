@@ -1,12 +1,12 @@
 {
-  "version": "4.2.0",
+  "version": "4.2.3",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.0",
-  "notes_text": "- Launchpad: each section in a box in its own colour; Search Guide gets a Launchpad chapter\n- Launchpad: allow programs and scripts; tiles can have their own picture\n- Launchpad: shortcut tiles for files, folders, links and saved searches",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/FindexPersonal.exe",
-  "sha256": "a940a6e92336445543c2fc9ea4e01d0fdf2e3cb9a936f1f3a24c8553a63fc134",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/FindexPersonal-portable.zip",
-  "sha256_folder": "9901ed37e5f71c2db9f1a2a576ae1bc02eb02d801a24457895e0966b9902d561",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.0/FindexPersonal-Setup.exe",
-  "sha256_installer": "f856d1d5ac76fff72c630d49db8ab81870e731b5044d398ccf295ab1a97faecd"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.3",
+  "notes_text": "Bug fixes and improvements.",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal.exe",
+  "sha256": "97cd61fbe614b68e2777e4532d3eb6a5f375bbb574c3799cc9bbf388407db80f",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal-portable.zip",
+  "sha256_folder": "b02d7815eaa92c470bc62192a66577207f57d2863c709a9ac475f904fabfecfd",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.3/FindexPersonal-Setup.exe",
+  "sha256_installer": "8b608ce864142861e559fd6ce5b0821cd47ad8bf085ef77b4be04dd2e5c5872f"
 }
