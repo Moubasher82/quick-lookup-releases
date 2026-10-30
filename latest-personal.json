@@ -1,12 +1,12 @@
 {
-  "version": "4.1.10",
+  "version": "4.1.11",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.10",
-  "notes_text": "- Personal edition: same visible name \"Findex\" everywhere, not \"Findex Personal\"\n- Fix: a shipped build never actually used its baked-in edition",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/FindexPersonal.exe",
-  "sha256": "7fcc7be848d6770b9b51be289965a2d1d9cc95dc7b33148a0a70fd1284ccc0cc",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/FindexPersonal-portable.zip",
-  "sha256_folder": "14acff2925a11a43b1cedb7bbec82ce357c8a567c7f3f40aca69dab67eba259f",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.10/FindexPersonal-Setup.exe",
-  "sha256_installer": "0fd79ef012e04e3dea4ad744057e6a3d13fbd291b243e50381435d62751dbf57"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.1.11",
+  "notes_text": "- Fix: the Personal edition's Search Guide printed the Lunazad email\n- Add APP_BRIEF.md: a factual project overview for outside readers",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/FindexPersonal.exe",
+  "sha256": "c49b4d2f032464bc92f11de331d5b9ccba2d08956d525863e19baf36633b8187",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/FindexPersonal-portable.zip",
+  "sha256_folder": "deec14b53ca013e4ad8abd4f3a75200d0437dca0d175199308ed3ab6ea9b8da1",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.1.11/FindexPersonal-Setup.exe",
+  "sha256_installer": "bb84c5ccc11ba4e449dd6cb57f605b6a755a80692c81babbbb4bf4b17e0ac30d"
 }
