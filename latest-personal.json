@@ -1,12 +1,12 @@
 {
-  "version": "4.2.4",
+  "version": "4.3.0",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.4",
-  "notes_text": "- Fix: the typing strip showed a clipped tile on narrow windows\n- Fix: Launchpad review findings (safety, search crash, slow shares, dialog and keyboard bugs)\n- Fix: sections couldn't be added to the Launchpad - added Add section buttons",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal.exe",
-  "sha256": "84b830d75bd09def426ce7a423da7f708d7c7710b58a863e3c63234ce625724c",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal-portable.zip",
-  "sha256_folder": "12be54208f57c3af9c1703f6070ec9a70516e9afb22be95527342331c47310a5",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/FindexPersonal-Setup.exe",
-  "sha256_installer": "1b78d997e2d574c982c64161c3978f0188c05a8d4982738c377dbc9455eaeeb9"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.3.0",
+  "notes_text": "- Hotkey can open on the Launchpad, a fresh About box and an updated Search Guide\n- Launchpad: Bento cards and App drawer looks; fixes to program icons and the typing strip",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal.exe",
+  "sha256": "a8409bf0cb0f3cf99428b2802cffcb7ac2642711179ab7a095c0cbe6648c6fb6",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal-portable.zip",
+  "sha256_folder": "33f499f611a5fb33e2ba2b5060a88bd515740d9a2229a5c7aa04394027c36d5f",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal-Setup.exe",
+  "sha256_installer": "fe69fc9af191cbccf1c83691a44632238dc79fcf1ec099cd8f3964b3377ad486"
 }
