@@ -1,12 +1,12 @@
 {
-  "version": "4.2.4",
+  "version": "4.3.0",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.2.4",
-  "notes_text": "- Fix: the typing strip showed a clipped tile on narrow windows\n- Fix: Launchpad review findings (safety, search crash, slow shares, dialog and keyboard bugs)\n- Fix: sections couldn't be added to the Launchpad - added Add section buttons",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/Findex.exe",
-  "sha256": "1192b4d531c9807f7c467fa929dd6205d49c4202a9e69b887bce1a9bc6249c72",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/Findex-portable.zip",
-  "sha256_folder": "191f718688734b714a10cfc6bb994bb364c50d931f4ca3a66f353d4f5cf6833c",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.2.4/Findex-Setup.exe",
-  "sha256_installer": "1ce5666c6d3bae34dcd0749f68d300b2d52def575097a32dbba2e896cb0e2fa0"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.3.0",
+  "notes_text": "- Hotkey can open on the Launchpad, a fresh About box and an updated Search Guide\n- Launchpad: Bento cards and App drawer looks; fixes to program icons and the typing strip",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/Findex.exe",
+  "sha256": "2c0b25f9e8579c134a85035c2e962e5643cfb59ab0787434920c8c8a153a4f45",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/Findex-portable.zip",
+  "sha256_folder": "cb4c84d344da85fe435a8d5aec0eeff3ec588f3bd40753edabd71316928393e0",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/Findex-Setup.exe",
+  "sha256_installer": "4b9c86d106368fbdeaf07b09db17aeb6c147d95212cbfda11f4f00d919b9c890"
 }
