@@ -1,12 +1,12 @@
 {
-  "version": "4.4.0",
+  "version": "4.4.1",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.4.0",
-  "notes_text": "- Launchpad: columns that don't push each other down, icons or list per section, smaller icons, a dock you fill yourself with names under the icons",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal.exe",
-  "sha256": "04b7d35ac9776899ff2e7bed9749d5268d0bd783c6f204417105f4b220775ca5",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal-portable.zip",
-  "sha256_folder": "363f99b5cfc552a90dceced39c575e26cb93bc1c8c3f76c752293b03a7ebb2ca",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal-Setup.exe",
-  "sha256_installer": "8a4352c4e1e5e283b9c124f7d97a2d6a58870e7bb37aaaea5c35a2e7909a8562"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.4.1",
+  "notes_text": "- Launchpad: the dock has shortcuts of its own - add one with its +, by dropping a file on it, or from any shortcut's menu; no section needed\n- Updates: the app starts again by itself after an update, and portable and single-EXE updates no longer stop silently",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/FindexPersonal.exe",
+  "sha256": "401681c4f1756b4f0a9c8e33dca0e0f65ef15d35c007566d6c81d523e466311b",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/FindexPersonal-portable.zip",
+  "sha256_folder": "6e79771e29badc87f398e578af4b1573f2ef493ad9b11f3c883b7aa3c26cce16",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/FindexPersonal-Setup.exe",
+  "sha256_installer": "ab437a69cbfbfdcf05f55c04413aae51a6744b8ab4f221d66407031116a85b91"
 }
