@@ -1,12 +1,12 @@
 {
-  "version": "4.4.0",
+  "version": "4.4.1",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.4.0",
-  "notes_text": "- Launchpad: columns that don't push each other down, icons or list per section, smaller icons, a dock you fill yourself with names under the icons",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/Findex.exe",
-  "sha256": "f5f60902d2f2cde121b5189a8f86d360afb7a6c7cd52bd1e57ab2ee02fbc9a87",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/Findex-portable.zip",
-  "sha256_folder": "c60e54212632640744be8359eb50177590374fccf2e4e54cdfc9106ef0a78b7f",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/Findex-Setup.exe",
-  "sha256_installer": "08a6e09e8ded748ffa264081407ed26a151272b6759d677dc2b119f70f3f4cde"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.4.1",
+  "notes_text": "- Launchpad: the dock has shortcuts of its own - add one with its +, by dropping a file on it, or from any shortcut's menu; no section needed\n- Updates: the app starts again by itself after an update, and portable and single-EXE updates no longer stop silently",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/Findex.exe",
+  "sha256": "c4aaa5d99fdb7464c862d02408882ac7625471e9c5327ec31be6855052ab514b",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/Findex-portable.zip",
+  "sha256_folder": "1bb6a8c199bc575af59d7023890b8b777914a0355e69af95cb04a0683a9d66d7",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.1/Findex-Setup.exe",
+  "sha256_installer": "23fd0a9eeb994ddf8d9f61e9899f6e6985617b02547650b5f236765b1a1487ce"
 }
