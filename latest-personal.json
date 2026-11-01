@@ -1,12 +1,12 @@
 {
-  "version": "4.3.0",
+  "version": "4.4.0",
   "url": "https://github.com/Moubasher82/quick-lookup-releases/releases/latest",
-  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.3.0",
-  "notes_text": "- Hotkey can open on the Launchpad, a fresh About box and an updated Search Guide\n- Launchpad: Bento cards and App drawer looks; fixes to program icons and the typing strip",
-  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal.exe",
-  "sha256": "a8409bf0cb0f3cf99428b2802cffcb7ac2642711179ab7a095c0cbe6648c6fb6",
-  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal-portable.zip",
-  "sha256_folder": "33f499f611a5fb33e2ba2b5060a88bd515740d9a2229a5c7aa04394027c36d5f",
-  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.3.0/FindexPersonal-Setup.exe",
-  "sha256_installer": "fe69fc9af191cbccf1c83691a44632238dc79fcf1ec099cd8f3964b3377ad486"
+  "notes": "https://github.com/Moubasher82/quick-lookup-releases/releases/tag/v4.4.0",
+  "notes_text": "- Launchpad: columns that don't push each other down, icons or list per section, smaller icons, a dock you fill yourself with names under the icons",
+  "asset_url": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal.exe",
+  "sha256": "04b7d35ac9776899ff2e7bed9749d5268d0bd783c6f204417105f4b220775ca5",
+  "asset_url_folder": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal-portable.zip",
+  "sha256_folder": "363f99b5cfc552a90dceced39c575e26cb93bc1c8c3f76c752293b03a7ebb2ca",
+  "asset_url_installer": "https://github.com/Moubasher82/quick-lookup-releases/releases/download/v4.4.0/FindexPersonal-Setup.exe",
+  "sha256_installer": "8a4352c4e1e5e283b9c124f7d97a2d6a58870e7bb37aaaea5c35a2e7909a8562"
 }
